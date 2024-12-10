@@ -1,12 +1,14 @@
 {
-  "name": "js-helper",
+  "name": "js-aid",
   "version": "1.0.0",
   "description": "A utility library for common JavaScript/TypeScript tasks.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
-    "build": "tsc",
-    "test": "echo \"No test specified\" && exit 1"
+    "build": "tsc"
   },
   "keywords": [
     "utilities",
@@ -14,7 +16,7 @@
     "common-tasks",
     "npm-package"
   ],
-  "author": "Your Name",
+  "author": "AMIT KUMAR",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.0.0"
