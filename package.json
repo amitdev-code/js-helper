@@ -1,0 +1,22 @@
+{
+  "name": "js-helper",
+  "version": "1.0.0",
+  "description": "A utility library for common JavaScript/TypeScript tasks.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": [
+    "utilities",
+    "typescript",
+    "common-tasks",
+    "npm-package"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
