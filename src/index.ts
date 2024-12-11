@@ -1,1 +1,1 @@
-export * from './util/sort';
+export * from './util/arrayHelper';
